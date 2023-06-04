@@ -195,13 +195,6 @@
 .preferences-link:hover .preferences-link-svg {
   fill: var(--dark-green);
 }
-
-@media screen and (min-width: 1280px) {
-  .preferences-link {
-    display: none;
-  }
-}
-
 .preferences-tablet-img {
   display: none;
 }
